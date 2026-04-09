@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = ChatOpenAI(model="gpt-4")
+model = ChatOpenAI(model="gpt-5-2025-08-07")
 
 result = model.invoke("Explain Debouncing in javascript")
 
