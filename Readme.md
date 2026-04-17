@@ -76,17 +76,6 @@ User Query → Retrieve → Augment → Generate
 
 ---
 
-## 🎯 Goal of This Repo
-
-To move beyond basic AI demos and build:
-
-* Scalable AI systems
-* Real-world agent workflows
-* Production-ready implementations
-
----
-
-
 ## ⭐ If you find this useful
 
 Give it a star ⭐ and follow the journey of building real-world AI systems.
