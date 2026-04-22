@@ -67,15 +67,6 @@ User Query → Retrieve → Augment → Generate
 
 ---
 
-## 🧪 Observability with LangSmith
-
-* Trace LLM calls
-* Debug agent workflows
-* Evaluate performance
-* Optimize prompts
-
----
-
 ## ⭐ If you find this useful
 
 Give it a star ⭐ and follow the journey of building real-world AI systems.
