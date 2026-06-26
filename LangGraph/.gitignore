@@ -1,0 +1,41 @@
+# --- Environment & API Keys ---
+.env
+.env.local
+.secrets/
+*.key
+*.pem
+
+# --- LangChain, LangGraph & LangSmith ---
+.langchain/
+.langgraph/
+.langsmith/
+.cache/
+.chroma/
+.faiss/
+
+# --- Python & Environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+langgraph-venv
+.langgraph-venv*
+venv/
+ENV/
+env/
+build/
+dist/
+*.egg-info/
+
+# --- Testing & Tools ---
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
