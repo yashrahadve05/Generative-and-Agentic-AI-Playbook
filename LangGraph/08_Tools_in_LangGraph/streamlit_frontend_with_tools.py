@@ -89,7 +89,7 @@ if user_input:
                 if isinstance(message_chunk, ToolMessage):
                     tool_name = getattr(message_chunk, "name", "tool")
                     if status_holder["box"] is None:
-                        status_holder["box"] = st.status(
+                        status_holder["box"] = st.status( #type: ignore
                             f"🔧 Using `{tool_name}` …", expanded=True
                         )
                     else:
